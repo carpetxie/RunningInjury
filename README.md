@@ -6,7 +6,7 @@ The dataset used in this study includes the x-coordinate vector of GRFs collecte
 
 The results demonstrated that the RNN model outperformed the LSTM in terms of accuracy, precision, and recall, suggesting that simpler architectures may be more effective for this type of injury prediction task. While the study shows promise, it also highlights the need for more comprehensive approaches that consider multiple risk factors to improve predictive capabilities in real-world applications.
 
-**The dataset used was from: **__
+_The dataset used was from: _
 
 Fukuchi RK, Fukuchi CA, Duarte M. A public dataset of running biomechanics and the effects of running speed 
 on lower extremity kinematics and kinetics. PeerJ. 2017;5:e3298. 
